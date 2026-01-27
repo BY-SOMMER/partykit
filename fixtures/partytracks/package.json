@@ -8,7 +8,7 @@
     "dev": "vite dev"
   },
   "dependencies": {
-    "hono": "^4.7.5",
+    "hono": "^4.11.7",
     "partytracks": "^0.0.50",
     "rxjs": "^7.8.2"
   },

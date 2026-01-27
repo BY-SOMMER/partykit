@@ -7,7 +7,7 @@
     "start": "vite dev"
   },
   "dependencies": {
-    "hono": "^4.7.5",
+    "hono": "^4.11.7",
     "hono-party": "^0.0.13",
     "partyserver": "^0.0.72",
     "partysocket": "^1.1.2",
